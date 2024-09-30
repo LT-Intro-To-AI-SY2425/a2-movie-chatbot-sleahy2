@@ -13,8 +13,10 @@ This assignment is about learning and applying the while loop and iterating thro
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
 
+I would sometimes get confused when trying to manipulate variables by doing something that I had not seen or learned before. For example, I did not know how to use rstrip(), but after we went over it, I understood.
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
 
+When looking for a director, or a year it was made, etc. it could match that information to the information in the movie database. For example, if looking for a movie by Steven Spielberg, it could find all the movies by Stielberg in the movie database. 
 
